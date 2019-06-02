@@ -1,0 +1,14 @@
+Requirements:
+
+https://stackoverflow.com/questions/20023131/cannot-install-pyaudio-gcc-error
+https://github.com/Uberi/speech_recognition
+https://stackoverflow.com/questions/36523705/python-pocketsphinx-requesterror-missing-pocketsphinx-module-ensure-that-pocke
+https://stackoverflow.com/questions/26664102/why-can-i-not-create-a-wheel-in-python
+https://github.com/automl/auto-sklearn/issues/314
+https://stackoverflow.com/questions/39185141/pocketsphinx-install-fail-raspberry-pi-zero-raspbian-jessie
+
+git
+cmake
+libjpeg8-dev
+gcc
+g++

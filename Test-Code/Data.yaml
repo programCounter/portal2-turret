@@ -1,0 +1,13 @@
+#Data file used in Test-Code for portal 2 turret project
+#
+# Author: Riley Larche (Program Counter)
+# Date Created: 2019-05-26
+# Date Updated: 2019-05-26
+# Atom 1.37
+
+#Will be combined. Make sure order is the same
+- Known:
+    names:
+      - Riley
+    images:
+      - Images/Riley.jpg
